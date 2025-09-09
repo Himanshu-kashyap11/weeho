@@ -1,0 +1,29 @@
+[
+  {
+    "id": "team_feedback_66e1a2b4c5d6e1",
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@email.com",
+    "rating": 5,
+    "message": "The Weeho team is doing an amazing job promoting Indian culture. The events are well-organized and the platform is user-friendly.",
+    "date": "2025-09-05 10:30:00",
+    "timestamp": 1725513000
+  },
+  {
+    "id": "team_feedback_66e1a2b4c5d7f1",
+    "name": "Kavya Sharma",
+    "email": "kavya.sharma@email.com",
+    "rating": 4,
+    "message": "Great initiative! Would love to see more regional art forms featured. Keep up the excellent work!",
+    "date": "2025-09-05 14:15:00",
+    "timestamp": 1725526500
+  },
+  {
+    "id": "team_feedback_66e1a2b4c5d8g1",
+    "name": "Rohit Gupta",
+    "email": "rohit.gupta@email.com",
+    "rating": 5,
+    "message": "Weeho has created a wonderful community for artists and art lovers. The team's dedication is truly commendable.",
+    "date": "2025-09-05 16:45:00",
+    "timestamp": 1725535500
+  }
+]

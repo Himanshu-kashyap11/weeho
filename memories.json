@@ -1,0 +1,87 @@
+[
+    {
+        "id": "memory_001",
+        "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=400&fit=crop",
+        "caption": "Classical Dance Performance at Delhi Cultural Festival - A mesmerizing Bharatanatyam performance that captivated the audience"
+    },
+    {
+        "id": "memory_002", 
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=400&fit=crop",
+        "caption": "Traditional Music Concert in Mumbai - Sitar maestro enchanting the crowd with ragas"
+    },
+    {
+        "id": "memory_003",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=400&fit=crop",
+        "caption": "Folk Dance Workshop in Rajasthan - Learning the vibrant Ghoomar dance with local artists"
+    },
+    {
+        "id": "memory_004",
+        "image": "https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?w=500&h=400&fit=crop",
+        "caption": "Poetry Evening in Kolkata - Heartfelt verses shared under the starlit sky"
+    },
+    {
+        "id": "memory_005",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500&h=400&fit=crop",
+        "caption": "Art Exhibition Opening - Contemporary artists showcasing their cultural interpretations"
+    },
+    {
+        "id": "memory_006",
+        "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&h=400&fit=crop",
+        "caption": "Theater Performance in Chennai - A powerful drama depicting Indian mythology"
+    },
+    {
+        "id": "memory_007",
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=400&fit=crop",
+        "caption": "Music Collaboration Session - Artists from different regions creating fusion melodies"
+    },
+    {
+        "id": "mem_001",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+        "caption": "Classical Bharatanatyam performance at Chennai Cultural Festival 2024"
+    },
+    {
+        "id": "mem_002", 
+        "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400",
+        "caption": "Traditional sitar concert featuring renowned maestros"
+    },
+    {
+        "id": "mem_003",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400",
+        "caption": "Rajasthani folk music and dance workshop in Delhi"
+    },
+    {
+        "id": "mem_004",
+        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400",
+        "caption": "Poetry and storytelling evening celebrating Indian literature"
+    },
+    {
+        "id": "mem_005",
+        "image": "https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?w=400",
+        "caption": "Contemporary fusion dance blending traditional and modern styles"
+    },
+    {
+        "id": "mem_006",
+        "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400",
+        "caption": "Community gathering celebrating diverse Indian art forms"
+    },
+    {
+        "id": "mem_007",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+        "caption": "Tabla masterclass with students learning traditional rhythms"
+    },
+    {
+        "id": "mem_008",
+        "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400",
+        "caption": "Cultural exchange program bringing artists together"
+    },
+    {
+        "id": "memory_008",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=400&fit=crop",
+        "caption": "Cultural Workshop for Youth - Teaching traditional art forms to the next generation"
+    },
+    {
+        "id": "memory_009",
+        "image": "https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?w=500&h=400&fit=crop",
+        "caption": "Storytelling Session - Elder artists sharing ancient tales and wisdom"
+    }
+]

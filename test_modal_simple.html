@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Modal Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-btn { 
+            background: #3b82f6; 
+            color: white; 
+            padding: 12px 24px; 
+            border: none; 
+            border-radius: 8px; 
+            cursor: pointer; 
+            margin: 10px;
+            font-size: 16px;
+        }
+        .test-btn:hover { background: #2563eb; }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.5);
+        }
+        
+        .modal-content {
+            background-color: white;
+            margin: 10% auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 500px;
+            position: relative;
+        }
+        
+        .close {
+            position: absolute;
+            right: 15px;
+            top: 10px;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            color: #aaa;
+        }
+        
+        .close:hover { color: #000; }
+    </style>
+</head>
+<body>
+    <h1>Simple Modal Test</h1>
+    
+    <button class="test-btn" onclick="openModal()">Open Modal</button>
+    <button class="test-btn" onclick="testConsole()">Test Console</button>
+    
+    <div id="testModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2>Test Modal</h2>
+            <p>This is a simple test modal to verify JavaScript is working.</p>
+            <button class="test-btn" onclick="closeModal()">Close</button>
+        </div>
+    </div>
+    
+    <div id="output"></div>
+
+    <script>
+    function openModal() {
+        console.log('Opening modal...');
+        const modal = document.getElementById('testModal');
+        if (modal) {
+            modal.style.display = 'block';
+            document.getElementById('output').innerHTML = '<p style="color: green;">Modal opened successfully!</p>';
+        } else {
+            document.getElementById('output').innerHTML = '<p style="color: red;">Modal element not found!</p>';
+        }
+    }
+    
+    function closeModal() {
+        console.log('Closing modal...');
+        const modal = document.getElementById('testModal');
+        if (modal) {
+            modal.style.display = 'none';
+            document.getElementById('output').innerHTML = '<p style="color: blue;">Modal closed successfully!</p>';
+        }
+    }
+    
+    function testConsole() {
+        console.log('Console test successful!');
+        document.getElementById('output').innerHTML = '<p style="color: green;">Check browser console (F12) for log message!</p>';
+    }
+    
+    // Close modal when clicking outside
+    window.onclick = function(event) {
+        const modal = document.getElementById('testModal');
+        if (event.target == modal) {
+            closeModal();
+        }
+    }
+    
+    console.log('Simple modal test page loaded');
+    </script>
+</body>
+</html>

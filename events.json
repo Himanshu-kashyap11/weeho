@@ -1,0 +1,50 @@
+[
+  {
+    "id": "evt_001",
+    "title": "Classical Sitar Concert",
+    "date": "2025-01-15",
+    "performer": "Pandit Ravi Kumar",
+    "city": "Mumbai",
+    "description": "Experience the soul-stirring melodies of classical Indian sitar music with renowned maestro Pandit Ravi Kumar."
+  },
+  {
+    "id": "evt_002",
+    "title": "Bharatanatyam Dance Recital",
+    "date": "2025-01-20",
+    "performer": "Priya Nair",
+    "city": "Chennai",
+    "description": "A mesmerizing evening of traditional Bharatanatyam dance showcasing ancient stories through graceful movements."
+  },
+  {
+    "id": "evt_003",
+    "title": "Folk Music Festival",
+    "date": "2025-01-25",
+    "performer": "Rajasthani Folk Ensemble",
+    "city": "Delhi",
+    "description": "Celebrate India's rich folk heritage with vibrant performances from Rajasthan's most talented musicians."
+  },
+  {
+    "id": "evt_004",
+    "title": "Contemporary Dance Workshop",
+    "date": "2025-02-01",
+    "performer": "Arjun Mehta Dance Company",
+    "city": "Bangalore",
+    "description": "Learn contemporary dance techniques blending traditional Indian movements with modern choreography."
+  },
+  {
+    "id": "evt_005",
+    "title": "Poetry & Storytelling Night",
+    "date": "2025-02-05",
+    "performer": "Kavya Collective",
+    "city": "Pune",
+    "description": "An intimate evening celebrating Indian literature through poetry recitation and traditional storytelling."
+  },
+  {
+    "id": "evt_006",
+    "title": "Tabla Masterclass",
+    "date": "2025-02-10",
+    "performer": "Ustad Zakir Hussain Jr.",
+    "city": "Kolkata",
+    "description": "Master the rhythms of tabla with this intensive workshop led by one of India's finest percussionists."
+  }
+]

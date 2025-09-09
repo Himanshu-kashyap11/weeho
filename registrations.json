@@ -1,0 +1,26 @@
+[
+  {
+    "id": "reg_66e1a2b4c5d6e1",
+    "eventId": "event_66e1a2b4c5d6e",
+    "name": "Amit Patel",
+    "email": "amit.patel@email.com",
+    "phone": "+91-9876543210",
+    "role": "audience",
+    "city": "Delhi",
+    "date": "2025-09-05 10:30:00",
+    "timestamp": 1725513000,
+    "status": "confirmed"
+  },
+  {
+    "id": "reg_66e1a2b4c5d7f1",
+    "eventId": "event_66e1a2b4c5d7f",
+    "name": "Sunita Rao",
+    "email": "sunita.rao@email.com",
+    "phone": "+91-9876543211",
+    "role": "participant",
+    "city": "Jaipur",
+    "date": "2025-09-05 11:15:00",
+    "timestamp": 1725515700,
+    "status": "confirmed"
+  }
+]
