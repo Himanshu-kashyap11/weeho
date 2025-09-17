@@ -1,4 +1,5 @@
 <?php require_once 'config.php'; ?>
+<?php echo json_encode(['status' => 'ok']); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
